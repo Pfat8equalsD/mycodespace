@@ -2,11 +2,6 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/cpp
 {
 	"name": "C++",
-	"extensions": [
-		"ms-vscode.vscode-typescript-tslint-plugin",
-		"dbaeumer.vscode-eslint",
-		"ms-azuretools.vscode-docker"
-	  ],
 	"build": {
 		"dockerfile": "Dockerfile"
 	}
